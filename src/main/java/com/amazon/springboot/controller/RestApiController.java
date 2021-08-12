@@ -15,7 +15,7 @@ import com.amazon.springboot.model.User;
 import com.amazon.springboot.service.UserService;
 import com.amazon.springboot.util.CustomErrorType;
 
-@CrossOrigin(origins = "http://ec2-15-206-211-103.ap-south-1.compute.amazonaws.com:8081")
+@CrossOrigin(origins = "http://ec2-13-126-235-222.ap-south-1.compute.amazonaws.com:8081")
 @RestController
 @RequestMapping("/api")
 public class RestApiController {
