@@ -1,4 +1,4 @@
-package com.amazon.springboot.service;
+package com.amazon.springboot.helper;
 
 public class Constants {
 	

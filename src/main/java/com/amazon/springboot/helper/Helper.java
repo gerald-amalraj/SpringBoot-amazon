@@ -1,4 +1,4 @@
-package com.amazon.springboot.service;
+package com.amazon.springboot.helper;
 
 import java.util.HashMap;
 import java.util.LinkedList;

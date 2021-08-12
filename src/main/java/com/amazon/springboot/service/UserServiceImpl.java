@@ -1,7 +1,7 @@
 package com.amazon.springboot.service;
 
-import static com.amazon.springboot.service.Constants.COMMA_SEPRATED;
-import static com.amazon.springboot.service.Constants.HYPHEN_SEPRATED;
+import static com.amazon.springboot.helper.Constants.COMMA_SEPRATED;
+import static com.amazon.springboot.helper.Constants.HYPHEN_SEPRATED;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -10,6 +10,8 @@ import java.util.LinkedList;
 import java.util.Map;
 
 import org.springframework.stereotype.Service;
+
+import com.amazon.springboot.helper.Helper;
 
 @Service("userService")
 public class UserServiceImpl implements UserService{
