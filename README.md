@@ -25,6 +25,7 @@ To test the backend from Postman/ any client UI
 
 http://3.7.39.76:8080/api/user/path
 
+
 Payload:
 
 {
@@ -35,7 +36,9 @@ Payload:
 }
 
 URL to access the application
+
 http://3.7.39.76:8080/
+
 
 
 
