@@ -19,11 +19,11 @@ mvn spring-boot:run
 
 ### Application AWS URL
 
-http://ec2-15-206-211-103.ap-south-1.compute.amazonaws.com:8080/
+http://3.7.39.76:8080/
 
 To test the backend from Postman/ any client UI
 
-http://ec2-15-206-211-103.ap-south-1.compute.amazonaws.com:8080/api/user/path
+http://3.7.39.76:8080/api/user/path
 
 Payload:
 
@@ -35,7 +35,7 @@ Payload:
 }
 
 URL to access the application
-http://ec2-15-206-211-103.ap-south-1.compute.amazonaws.com:8080/
+http://3.7.39.76:8080/
 
 
 
